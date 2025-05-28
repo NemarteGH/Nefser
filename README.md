@@ -1,5 +1,5 @@
 
-# 📁 nefser_file_transfer
+# 📁 Nefser
 
 **Nefser** é uma ferramenta de transferência de arquivos via CLI, que permite transferência rápida de arquivos pela rede com apenas uma linha de comando.
 
